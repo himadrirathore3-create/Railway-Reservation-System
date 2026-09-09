@@ -52,6 +52,12 @@ Specifying the context and requirements of a system
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
+# COMMUNICTION DIAGRAM:
+<img width="907" height="715" alt="Screenshot 2026-08-02 220328" src="https://github.com/user-attachments/assets/698d1432-d524-4b53-b545-3d0b960ce08a" />
+
+A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
+
+Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 # PACKAGE DIAGRAM:
 <img width="935" height="676" alt="Screenshot 2026-08-02 220354" src="https://github.com/user-attachments/assets/00f5421d-7c3b-49ae-aaed-e88298817df4" />
